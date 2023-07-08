@@ -1,4 +1,4 @@
-# Hi this is Shahin Asadi author of this module
+# Author -> Shahin Asadi
 
 # This is a module for converting numbers from digit to text in persian and
 # vise versa convert persian text to numbers
