@@ -5,7 +5,7 @@
 **notice:** for all following functions you can set **`to_file`** as your filename to export output in it.
 
 <details>
-<summary><p style='color:blue;'>total_toman_num(text: str, to_file: str)</p></summary>
+<summary><h4>total_toman_num(text: str, to_file: str)</h4></summary>
 
 ```python
 total_toman_num('یک میلیارد و صد و دوازده میلیون و هشتاد و سه هزار و سیصد و پنجاه و هفت تومان')
@@ -18,7 +18,7 @@ total_toman_num('یک میلیارد و صد و دوازده میلیون و ه�
 </details>
 
 <details>
-<summary><p style='color:blue;'>total_rial_num(text: str, to_file: str)</p></summary>
+<summary><h4>total_rial_num(text: str, to_file: str)</h4></summary>
 
 ```python
 total_rial_num('صد و یک میلیون و نه صد و شصت و سه هزار و سی و سه تومان')
@@ -31,7 +31,7 @@ total_rial_num('صد و یک میلیون و نه صد و شصت و سه هزا�
 </details>
 
 <details>
-<summary><p style='color:blue;'>total_to_persian_toman(number: str, to_file: str)</p></summary>
+<summary><h4>total_to_persian_toman(number: str, to_file: str)</h4></summary>
 
 ```python
 total_to_persian_toman('20123486057')
@@ -44,7 +44,7 @@ total_to_persian_toman('20123486057', 'my_file.txt')
 </details>
 
 <details>
-<summary><p style='color:blue;'>total_to_persian_rial(number: str, to_file: str)</p></summary>
+<summary><h4>total_to_persian_rial(number: str, to_file: str)</h4></summary>
 
 ```python
 total_to_persian_rial('124365478')
