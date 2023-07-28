@@ -5,7 +5,7 @@
 
 # this is just an exercising and not a serious project, so you can use, change
 # and modify for your use-case
-from utils import total_num, total_to_persian, le_sadgan, gt_sadgan
+from utils import total_num, total_to_persian
 
 
 # return persian text to rial numbers
